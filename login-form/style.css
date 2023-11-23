@@ -8,6 +8,10 @@
     border-radius: 1rem;
 }
 
+.btn-custom{
+    width: 12.5rem;
+    margin: 0 auto;
+}
 .btn-custom:hover {
     background: rgb(7, 11, 83);
     background: linear-gradient(90deg, rgba(7, 11, 83, 1) 0%, rgba(16, 68, 154, 1) 52%, rgba(21, 140, 198, 1) 100%);
