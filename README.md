@@ -2,5 +2,6 @@
 
 ### Screenshot:
 
-![image](https://github.com/dugabrielle/login-form-bootstrap/assets/121505858/5227b186-5d70-41bb-8815-cfea36b381ac)
+![image](https://github.com/dugabrielle/login-form-bootstrap/assets/121505858/ecdcb8c4-f6f4-4f86-928f-57f6fdacf44d)
+
 
