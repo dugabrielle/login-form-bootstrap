@@ -3,4 +3,6 @@
     background: linear-gradient(90deg, rgba(7, 11, 83, 1) 0%, rgba(16, 68, 154, 1) 52%, rgba(21, 140, 198, 1) 100%);
 }
 
-
+.form-control {
+    border: none;
+}
